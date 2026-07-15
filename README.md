@@ -6,6 +6,7 @@ The client-side interface for PixelRate, a full-stack web application designed t
 - CSSNode
 
 # Live Demo
+Vercel URL = https://pixelratefrontend-2ruoes3im-ahmeds-projects-5aeb2301.vercel.app/
 
 # Screenshots
 
