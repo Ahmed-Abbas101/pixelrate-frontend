@@ -23,8 +23,8 @@ Backend Repository:
 - Core Library: React.js (Vite / Create React App)
 - Styling: Tailwind CSS / CSS Modules
 - Routing: React Router DOM
-- HTTP Client: Axios / Native Fetch API
-- Icons: React Icons / Heroicons
+- HTTP Client: Native Fetch API
+- Icons: React Icons
 
 # Prerequisites
 Before you begin, ensure you have the following installed:
